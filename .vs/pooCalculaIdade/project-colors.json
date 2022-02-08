@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "139837b4-388c-4c0d-9f1d-f7f08f8a9d65": {
+      "ProjectGuid": "139837b4-388c-4c0d-9f1d-f7f08f8a9d65",
+      "DisplayName": "pooMensagem",
+      "ColorIndex": 0
+    },
+    "3c9dea46-768e-4fdc-8c4c-a67bd3242fe7": {
+      "ProjectGuid": "3c9dea46-768e-4fdc-8c4c-a67bd3242fe7",
+      "DisplayName": "pooCalculaIdade",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
