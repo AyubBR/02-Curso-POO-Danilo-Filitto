@@ -11,36 +11,36 @@ namespace AreaRetangulo
         //Contrutores
         public Retangulo()
         {
-            float Baseretangulo = 0;
-            float Alturaretangulo = 0;
+            double Baseretangulo = 0;
+            double Alturaretangulo = 0;
         }
 
-        public Retangulo(float baseretangulo, float alturaretangulo)
+        public Retangulo(double baseretangulo, double alturaretangulo)
         {
-            float Baseretangulo = baseretangulo;
-            float Alturaretangulo = alturaretangulo;
+            double Baseretangulo = baseretangulo;
+            double Alturaretangulo = alturaretangulo;
         }
 
         //Propriedades
-        private float baseretangulo;
+        private double baseretangulo;
 
-        public float Baseretangulo
+        public double Baseretangulo
         {
             get { return baseretangulo; }
             set { baseretangulo = value; }
         }
 
-        private float alturaretangulo;
+        private double alturaretangulo;
 
-        public float Alturaretangulo
+        public double Alturaretangulo
         {
             get { return alturaretangulo; }
             set { alturaretangulo = value; }
         }
 
-        private float area;
+        private double area;
 
-        public float Area
+        public double Area
         {
             get { return Baseretangulo*Alturaretangulo; }
             set { area = value; }

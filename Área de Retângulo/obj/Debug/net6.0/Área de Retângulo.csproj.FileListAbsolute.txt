@@ -1,0 +1,15 @@
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\bin\Debug\net6.0\Área de Retângulo.exe
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\bin\Debug\net6.0\Área de Retângulo.deps.json
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\bin\Debug\net6.0\Área de Retângulo.runtimeconfig.json
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\bin\Debug\net6.0\Área de Retângulo.dll
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\bin\Debug\net6.0\ref\Área de Retângulo.dll
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\bin\Debug\net6.0\Área de Retângulo.pdb
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.csproj.AssemblyReference.cache
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.AssemblyInfoInputs.cache
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.AssemblyInfo.cs
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.dll
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\ref\Área de Retângulo.dll
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.pdb
+C:\Users\Fábio\source\repos\02-Curso-POO-Danilo-Filitto\Área de Retângulo\obj\Debug\net6.0\Área de Retângulo.genruntimeconfig.cache

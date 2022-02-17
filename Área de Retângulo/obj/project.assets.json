@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\1686557x\\.nuget\\packages\\": {}
+    "C:\\Users\\Fábio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1686557x\\source\\repos\\Área de Retângulo\\Área de Retângulo.csproj",
+      "projectUniqueName": "C:\\Users\\Fábio\\source\\repos\\02-Curso-POO-Danilo-Filitto\\Área de Retângulo\\Área de Retângulo.csproj",
       "projectName": "Área de Retângulo",
-      "projectPath": "C:\\Users\\1686557x\\source\\repos\\Área de Retângulo\\Área de Retângulo.csproj",
-      "packagesPath": "C:\\Users\\1686557x\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1686557x\\source\\repos\\Área de Retângulo\\obj\\",
+      "projectPath": "C:\\Users\\Fábio\\source\\repos\\02-Curso-POO-Danilo-Filitto\\Área de Retângulo\\Área de Retângulo.csproj",
+      "packagesPath": "C:\\Users\\Fábio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fábio\\source\\repos\\02-Curso-POO-Danilo-Filitto\\Área de Retângulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1686557x\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fábio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
